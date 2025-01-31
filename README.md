@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/NileshRajput1">
+  <a href="https://github.com/NileshSingh9245">
   <img src="https://readme-typing-svg.demolab.com/?lines=Nilesh%20Kumar%20Singh&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&repeat=false" />
 </a>
   
@@ -25,12 +25,12 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://github.com/NileshRajput1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NileshRajput1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/NileshRajput1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NileshRajput1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/NileshRajput1">
-    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=NileshRajput1&icon=1&color=0"/>
+  <a href="https://github.com/NileshSingh9245?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NileshSingh9245?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/NileshSingh9245?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NileshSingh9245?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/NileshSingh9245">
+    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=NileshSingh9245&icon=1&color=0"/>
 </a>
 
 </p>
@@ -39,7 +39,7 @@
 
 <!-- GitHub Star link -->
 <p align="center">
-  <a href="https://stars.github.com/profiles/nileshrajput1/">
+  <a href="https://stars.github.com/profiles/NileshSingh9245/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/></a>
 </p>
 
@@ -90,9 +90,9 @@
 
 ## 📊 GitHub Stats
 
-![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NileshRajput1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![Nilesh's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NileshRajput1&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NileshRajput1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NileshSingh9245&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![Nilesh's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NileshSingh9245&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NileshSingh9245&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -121,8 +121,8 @@
 
 ## 🏆 Achievements & Contributions:
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=NileshRajput1&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/NileshRajput1)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=NileshSingh9245&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/NileshSingh9245)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=NileshRajput1&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NileshSingh9245&icon=1&color=0)](https://visitcount.itsvg.in)
