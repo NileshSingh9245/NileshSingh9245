@@ -43,7 +43,7 @@
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/></a>
 </p>
 
-# 👋 Hi, I'm currently working on automating mail server log fetching using Python and learning advanced concepts in Cyber Security, Data Structures & Algorithms, and Flutter. I love building cross-platform mobile applications and diving deep into the world of DevOps.
+# 👋 a Graduate Engineer Trainee (GET) working in a Linux team. I am passionate about Python scripting, DevOps, and Data Structures & Algorithms (DSA). Eager to learn and grow, I thrive on tackling new challenges and enhancing my technical skills in the ever-evolving tech landscape.
 
 > **Fun Fact:** I'm a jack of all trades and master of none—always curious and eager to learn something new!
 
